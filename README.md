@@ -1,2 +1,20 @@
-# bank-account-management-system
-This project is a Python-based Bank Account Management System built using object-oriented programming concepts. It allows users to create and manage bank accounts, deposit and withdraw money, update user details, search accounts, and check balances through a simple menu-driven interface. The project focuses on Python fundamentals and logic skills.
+# Bank Account Management System
+
+A beginner-level Python project built using Object-Oriented Programming (OOP) concepts.
+
+## Features
+- Create a bank account with unique account number
+- View all accounts
+- Search account by account number
+- Update account details
+- Delete account
+- Deposit and withdraw money
+- View account balance
+- Count total accounts
+
+## Technologies Used
+- Python
+- OOP concepts
+
+## Purpose
+This project was created to practice Python fundamentals, OOP, and real-world problem-solving.
